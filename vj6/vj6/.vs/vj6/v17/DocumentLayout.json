@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sime\\Documents\\GitHub\\Strukturepodataka2024\\vj6\\vj6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29488212-9620-43A9-AA86-23E7D17B137A}|vj6\\vj6.vcxproj|C:\\Users\\Sime\\Documents\\GitHub\\Strukturepodataka2024\\vj6\\vj6\\vj6\\vj6.c||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{29488212-9620-43A9-AA86-23E7D17B137A}|vj6\\vj6.vcxproj|solutionrelative:vj6\\vj6.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29488212-9620-43A9-AA86-23E7D17B137A}|vj6\\vj6.vcxproj|C:\\Users\\Sime\\Documents\\GitHub\\Strukturepodataka2024\\vj6\\vj6\\vj6\\racuni.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29488212-9620-43A9-AA86-23E7D17B137A}|vj6\\vj6.vcxproj|solutionrelative:vj6\\racuni.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "racuni.txt",
+              "DocumentMoniker": "C:\\Users\\Sime\\Documents\\GitHub\\Strukturepodataka2024\\vj6\\vj6\\vj6\\racuni.txt",
+              "RelativeDocumentMoniker": "vj6\\racuni.txt",
+              "ToolTip": "C:\\Users\\Sime\\Documents\\GitHub\\Strukturepodataka2024\\vj6\\vj6\\vj6\\racuni.txt",
+              "RelativeToolTip": "vj6\\racuni.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T11:32:01.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vj6.c",
+              "DocumentMoniker": "C:\\Users\\Sime\\Documents\\GitHub\\Strukturepodataka2024\\vj6\\vj6\\vj6\\vj6.c",
+              "RelativeDocumentMoniker": "vj6\\vj6.c",
+              "ToolTip": "C:\\Users\\Sime\\Documents\\GitHub\\Strukturepodataka2024\\vj6\\vj6\\vj6\\vj6.c",
+              "RelativeToolTip": "vj6\\vj6.c",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-10T11:31:01.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

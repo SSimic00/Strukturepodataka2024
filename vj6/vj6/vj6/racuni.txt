@@ -1,0 +1,12 @@
+2024-12-01
+Banane, 10, 4
+Jabuke zelene, 5, 10
+2024-12-03
+Banane, 15, 4
+Jabuke crvene, 10, 3
+2024-12-10
+Banane, 10, 4
+Jabuke zelene, 5, 10
+2024-12-12
+Banane, 15, 4
+Jabuke crvene, 10, 3
